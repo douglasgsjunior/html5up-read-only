@@ -1,15 +1,21 @@
-{
+  {
     "name": "Toy Story",
     "short_name": "Resenha",
-    "start_url": "/index.html",
-    "display": "standalone",
-    "theme_color": "#2196F3",
-    "background_color": "#FFFFFF",
+    "description": "Resenha dos filmes Toy Story",
     "icons": [
       {
         "src": "images/avatar.jpg",
         "sizes": "192x192",
         "type": "image/jpg"
+      },
+      {
+        "src": "images/avatar.jpg",
+        "sizes": "512x512",
+        "type": "image/jpg"
       }
-    ]
+    ],
+    "start_url": "https://stunning-syrniki-712cbd.netlify.app/",
+    "background_color": "#FFFFFF",
+    "display": "standalone",
+    "theme_color": "#FFFFFF"
   }
